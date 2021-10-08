@@ -1,0 +1,11 @@
+h1{
+    color: rgb(202, 50, 233);
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 150px;
+    border: solid 3px;
+    padding: 50px;
+    border-radius: 25px;
+}
